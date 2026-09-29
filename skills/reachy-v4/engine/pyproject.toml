@@ -1,0 +1,30 @@
+[project]
+name = "reachy-v4"
+version = "0.1.0"
+description = "Reachy Mini acts out Eleven v4 audio tags: emotion-driven robot motion timed to ElevenLabs speech"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "reachy-mini>=1.10.0,<1.12",
+    "httpx",
+    "websockets",
+    "numpy",
+    "scipy",
+    "pydantic>=2",
+    "soundfile",
+    "huggingface_hub",
+]
+
+[project.optional-dependencies]
+whisper = ["faster-whisper"]
+sim = ["reachy-mini[mujoco]"]
+
+[project.scripts]
+reachy-v4 = "reachy_embodied_emotions.cli:main"
+
+[build-system]
+requires = ["uv_build>=0.8.2,<0.9.0"]
+build-backend = "uv_build"
+
+[tool.uv.build-backend]
+module-name = "reachy_embodied_emotions"

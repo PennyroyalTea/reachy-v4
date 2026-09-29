@@ -1,0 +1,9 @@
+{
+  "name": "reachy-v4",
+  "description": "Reachy Mini acts out Eleven v4 speech: emotion audio tags drive the voice and the robot's body together.",
+  "version": "0.1.0",
+  "author": { "name": "Boris Starkov" },
+  "repository": "https://github.com/pennyroyaltea/reachy-v4",
+  "license": "Apache-2.0",
+  "keywords": ["reachy-mini", "robotics", "elevenlabs", "eleven-v4", "text-to-speech", "emotion"]
+}

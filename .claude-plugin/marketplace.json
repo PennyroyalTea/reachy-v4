@@ -1,0 +1,14 @@
+{
+  "name": "reachy-v4",
+  "owner": {
+    "name": "Boris Starkov"
+  },
+  "description": "Reachy Mini acts out Eleven v4 speech, with a matching body performance for every emotion tag.",
+  "plugins": [
+    {
+      "name": "reachy-v4",
+      "source": "./",
+      "description": "Reachy Mini acts out Eleven v4 speech: emotion audio tags drive the voice and the robot's body together."
+    }
+  ]
+}

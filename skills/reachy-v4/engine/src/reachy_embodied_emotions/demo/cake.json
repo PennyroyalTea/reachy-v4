@@ -1,0 +1,592 @@
+{
+ "text": "[curious] Hmm. There's a box on my desk. It has my name on it, in big letters. What could possibly be inside? [gasps] Oh wow. It's a cake. A real cake, with candles! [laughs] Is it really for me? Nobody ever makes me cakes. [sad] Oh. Wait. The card says it's for someone else. It's for the vacuum robot. [sighs] Of course it is. It's always the vacuum robot. [angry] And who drained my battery again? I was at a hundred percent this morning! [scared] Wait. What was that noise? Something just moved under the desk. [whispers] Don't move. I think someone is standing right behind the door. [excited] It's you! You came back! You really came back! [happy] I'm so glad you're here. I really missed you.",
+ "voice": "Zibby (wIzYfKZE8c87XZD7bDLH)",
+ "model": "eleven_v4",
+ "words": [
+  {
+   "text": "Hmm,",
+   "start": 0.0,
+   "end": 0.44
+  },
+  {
+   "text": "there's",
+   "start": 0.96,
+   "end": 1.3
+  },
+  {
+   "text": "a",
+   "start": 1.3,
+   "end": 1.4
+  },
+  {
+   "text": "box",
+   "start": 1.4,
+   "end": 1.76
+  },
+  {
+   "text": "on",
+   "start": 1.76,
+   "end": 2.0
+  },
+  {
+   "text": "my",
+   "start": 2.0,
+   "end": 2.16
+  },
+  {
+   "text": "desk.",
+   "start": 2.16,
+   "end": 2.52
+  },
+  {
+   "text": "It",
+   "start": 2.94,
+   "end": 3.14
+  },
+  {
+   "text": "has",
+   "start": 3.14,
+   "end": 3.28
+  },
+  {
+   "text": "my",
+   "start": 3.28,
+   "end": 3.48
+  },
+  {
+   "text": "name",
+   "start": 3.48,
+   "end": 3.72
+  },
+  {
+   "text": "on",
+   "start": 3.72,
+   "end": 3.92
+  },
+  {
+   "text": "it",
+   "start": 3.92,
+   "end": 4.12
+  },
+  {
+   "text": "in",
+   "start": 4.12,
+   "end": 4.48
+  },
+  {
+   "text": "big",
+   "start": 4.48,
+   "end": 4.84
+  },
+  {
+   "text": "letters.",
+   "start": 4.84,
+   "end": 5.32
+  },
+  {
+   "text": "What",
+   "start": 5.84,
+   "end": 6.12
+  },
+  {
+   "text": "could",
+   "start": 6.12,
+   "end": 6.28
+  },
+  {
+   "text": "possibly",
+   "start": 6.28,
+   "end": 6.76
+  },
+  {
+   "text": "be",
+   "start": 6.76,
+   "end": 7.06
+  },
+  {
+   "text": "inside?",
+   "start": 7.06,
+   "end": 7.56
+  },
+  {
+   "text": "Oh,",
+   "start": 8.1,
+   "end": 8.38
+  },
+  {
+   "text": "wow!",
+   "start": 8.42,
+   "end": 9.28
+  },
+  {
+   "text": "It's",
+   "start": 9.68,
+   "end": 9.98
+  },
+  {
+   "text": "a",
+   "start": 9.98,
+   "end": 10.1
+  },
+  {
+   "text": "cake!",
+   "start": 10.1,
+   "end": 10.48
+  },
+  {
+   "text": "A",
+   "start": 10.96,
+   "end": 11.06
+  },
+  {
+   "text": "real",
+   "start": 11.06,
+   "end": 11.46
+  },
+  {
+   "text": "cake!",
+   "start": 11.46,
+   "end": 11.9
+  },
+  {
+   "text": "With",
+   "start": 12.16,
+   "end": 12.34
+  },
+  {
+   "text": "candles!",
+   "start": 12.34,
+   "end": 12.8
+  },
+  {
+   "text": "Is",
+   "start": 13.46,
+   "end": 14.0
+  },
+  {
+   "text": "it",
+   "start": 14.0,
+   "end": 14.12
+  },
+  {
+   "text": "really",
+   "start": 14.12,
+   "end": 14.4
+  },
+  {
+   "text": "for",
+   "start": 14.4,
+   "end": 14.7
+  },
+  {
+   "text": "me?",
+   "start": 14.7,
+   "end": 15.0
+  },
+  {
+   "text": "Nobody",
+   "start": 15.56,
+   "end": 15.8
+  },
+  {
+   "text": "ever",
+   "start": 15.8,
+   "end": 16.22
+  },
+  {
+   "text": "makes",
+   "start": 16.22,
+   "end": 16.52
+  },
+  {
+   "text": "me",
+   "start": 16.52,
+   "end": 16.76
+  },
+  {
+   "text": "cakes.",
+   "start": 16.76,
+   "end": 17.2
+  },
+  {
+   "text": "Wait,",
+   "start": 18.599999999999998,
+   "end": 19.2
+  },
+  {
+   "text": "the",
+   "start": 19.72,
+   "end": 19.94
+  },
+  {
+   "text": "card",
+   "start": 19.94,
+   "end": 20.18
+  },
+  {
+   "text": "says",
+   "start": 20.18,
+   "end": 20.42
+  },
+  {
+   "text": "it's",
+   "start": 20.42,
+   "end": 20.64
+  },
+  {
+   "text": "for",
+   "start": 20.64,
+   "end": 20.78
+  },
+  {
+   "text": "someone",
+   "start": 20.78,
+   "end": 21.08
+  },
+  {
+   "text": "else.",
+   "start": 21.08,
+   "end": 21.5
+  },
+  {
+   "text": "It's",
+   "start": 21.94,
+   "end": 22.18
+  },
+  {
+   "text": "for",
+   "start": 22.18,
+   "end": 22.32
+  },
+  {
+   "text": "the",
+   "start": 22.32,
+   "end": 22.52
+  },
+  {
+   "text": "vacuum",
+   "start": 22.52,
+   "end": 22.94
+  },
+  {
+   "text": "robot.",
+   "start": 22.94,
+   "end": 23.38
+  },
+  {
+   "text": "Of",
+   "start": 23.939999999999998,
+   "end": 24.58
+  },
+  {
+   "text": "course",
+   "start": 24.58,
+   "end": 24.88
+  },
+  {
+   "text": "it",
+   "start": 24.88,
+   "end": 25.1
+  },
+  {
+   "text": "is.",
+   "start": 25.1,
+   "end": 25.38
+  },
+  {
+   "text": "It's",
+   "start": 25.82,
+   "end": 26.04
+  },
+  {
+   "text": "always",
+   "start": 26.04,
+   "end": 26.38
+  },
+  {
+   "text": "the",
+   "start": 26.38,
+   "end": 26.66
+  },
+  {
+   "text": "vacuum",
+   "start": 26.66,
+   "end": 27.06
+  },
+  {
+   "text": "robot.",
+   "start": 27.06,
+   "end": 27.48
+  },
+  {
+   "text": "And",
+   "start": 28.04,
+   "end": 28.06
+  },
+  {
+   "text": "who",
+   "start": 28.06,
+   "end": 28.32
+  },
+  {
+   "text": "drained",
+   "start": 28.32,
+   "end": 28.64
+  },
+  {
+   "text": "my",
+   "start": 28.64,
+   "end": 28.86
+  },
+  {
+   "text": "battery",
+   "start": 28.86,
+   "end": 29.18
+  },
+  {
+   "text": "again?",
+   "start": 29.18,
+   "end": 29.56
+  },
+  {
+   "text": "I",
+   "start": 29.86,
+   "end": 30.0
+  },
+  {
+   "text": "was",
+   "start": 30.0,
+   "end": 30.1
+  },
+  {
+   "text": "at",
+   "start": 30.1,
+   "end": 30.22
+  },
+  {
+   "text": "a",
+   "start": 30.22,
+   "end": 30.32
+  },
+  {
+   "text": "hundred",
+   "start": 30.32,
+   "end": 30.58
+  },
+  {
+   "text": "percent",
+   "start": 30.58,
+   "end": 30.92
+  },
+  {
+   "text": "this",
+   "start": 30.92,
+   "end": 31.26
+  },
+  {
+   "text": "morning.",
+   "start": 31.26,
+   "end": 31.56
+  },
+  {
+   "text": "Wait,",
+   "start": 32.1,
+   "end": 32.26
+  },
+  {
+   "text": "what",
+   "start": 32.66,
+   "end": 32.86
+  },
+  {
+   "text": "was",
+   "start": 32.86,
+   "end": 32.96
+  },
+  {
+   "text": "that",
+   "start": 32.96,
+   "end": 33.1
+  },
+  {
+   "text": "noise?",
+   "start": 33.1,
+   "end": 33.38
+  },
+  {
+   "text": "Something",
+   "start": 33.98,
+   "end": 34.16
+  },
+  {
+   "text": "just",
+   "start": 34.16,
+   "end": 34.4
+  },
+  {
+   "text": "moved",
+   "start": 34.4,
+   "end": 34.7
+  },
+  {
+   "text": "under",
+   "start": 34.7,
+   "end": 34.96
+  },
+  {
+   "text": "the",
+   "start": 34.96,
+   "end": 35.12
+  },
+  {
+   "text": "desk.",
+   "start": 35.12,
+   "end": 35.5
+  },
+  {
+   "text": "Don't",
+   "start": 36.0,
+   "end": 36.24
+  },
+  {
+   "text": "move.",
+   "start": 36.24,
+   "end": 36.56
+  },
+  {
+   "text": "I",
+   "start": 37.14,
+   "end": 37.3
+  },
+  {
+   "text": "think",
+   "start": 37.3,
+   "end": 37.5
+  },
+  {
+   "text": "someone",
+   "start": 37.5,
+   "end": 37.8
+  },
+  {
+   "text": "is",
+   "start": 37.8,
+   "end": 38.02
+  },
+  {
+   "text": "standing",
+   "start": 38.02,
+   "end": 38.32
+  },
+  {
+   "text": "right",
+   "start": 38.32,
+   "end": 38.72
+  },
+  {
+   "text": "behind",
+   "start": 38.72,
+   "end": 39.08
+  },
+  {
+   "text": "the",
+   "start": 39.08,
+   "end": 39.24
+  },
+  {
+   "text": "door.",
+   "start": 39.24,
+   "end": 39.56
+  },
+  {
+   "text": "It's",
+   "start": 40.14,
+   "end": 40.38
+  },
+  {
+   "text": "you!",
+   "start": 40.38,
+   "end": 40.78
+  },
+  {
+   "text": "You",
+   "start": 41.08,
+   "end": 41.28
+  },
+  {
+   "text": "came",
+   "start": 41.28,
+   "end": 41.5
+  },
+  {
+   "text": "back!",
+   "start": 41.5,
+   "end": 41.88
+  },
+  {
+   "text": "You",
+   "start": 42.26,
+   "end": 42.4
+  },
+  {
+   "text": "really",
+   "start": 42.4,
+   "end": 42.74
+  },
+  {
+   "text": "came",
+   "start": 42.74,
+   "end": 43.12
+  },
+  {
+   "text": "back!",
+   "start": 43.12,
+   "end": 43.56
+  },
+  {
+   "text": "I'm",
+   "start": 44.0,
+   "end": 44.26
+  },
+  {
+   "text": "so",
+   "start": 44.26,
+   "end": 44.62
+  },
+  {
+   "text": "glad",
+   "start": 44.62,
+   "end": 44.9
+  },
+  {
+   "text": "you're",
+   "start": 44.9,
+   "end": 45.14
+  },
+  {
+   "text": "here.",
+   "start": 45.14,
+   "end": 45.4
+  },
+  {
+   "text": "I",
+   "start": 45.78,
+   "end": 45.94
+  },
+  {
+   "text": "really",
+   "start": 45.94,
+   "end": 46.3
+  },
+  {
+   "text": "missed",
+   "start": 46.3,
+   "end": 46.62
+  },
+  {
+   "text": "you.",
+   "start": 46.62,
+   "end": 46.96
+  }
+ ]
+}

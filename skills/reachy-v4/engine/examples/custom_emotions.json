@@ -1,0 +1,22 @@
+[
+  {
+    "name": "proud",
+    "label": "Proud",
+    "kind": "state",
+    "color": "#c8963e",
+    "aliases": ["proudly", "confident", "triumphant", "smug", "boastful"],
+    "clips": ["proud1", "proud2"],
+    "hold": {"x": -6, "z": 14, "pitch": -12, "roll": 0, "yaw": 0, "ant_r": -2, "ant_l": 2},
+    "idle": [{"channel": "z", "amp": 1.5, "hz": 0.4}, {"channel": "ants", "amp": 4, "hz": 0.8}]
+  },
+  {
+    "name": "shy",
+    "label": "Shy",
+    "kind": "state",
+    "color": "#d99a9a",
+    "aliases": ["shyly", "embarrassed", "bashful", "sheepish", "blushing"],
+    "clips": ["shy1"],
+    "hold": {"x": -8, "z": 4, "pitch": 6, "roll": -10, "yaw": -24, "body_yaw": -10, "ant_r": -70, "ant_l": 40},
+    "idle": [{"channel": "yaw", "amp": 3, "hz": 0.3}, {"channel": "ant_l", "amp": 8, "hz": 0.6}]
+  }
+]
